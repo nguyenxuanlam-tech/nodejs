@@ -23,5 +23,8 @@
   "homepage": "https://github.com/nguyenxuanlam-tech/nodejs#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
   }
 }
